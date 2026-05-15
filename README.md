@@ -2,19 +2,19 @@
 
 # 🚦 Mobilis — Inferência de Fluxos para Mobilidade Urbana Inteligente
 
-# 📚 Sumário
+# Sumário
 
-- [Sobre o Projeto](#-sobre-o-projeto)
-- [Cenário](#-cenário)
-- [Objetivo](#-objetivo)
-- [Abordagem Analítica](#-abordagem-analítica)
-- [Canvas do Projeto](#-canvas-do-projeto)
-- [Regras Temporais de Coerência](#-regras-temporais-de-coerência)
-- [Análise Exploratória](#-análise-exploratória)
-- [MVP — Dashboard Conceitual](#️-mvp--dashboard-conceitual)
-- [Relatório Executivo](#-relatório-executivo)
-- [Limitações Identificadas](#️-limitações-identificadas)
-- [Possíveis Evoluções Futuras](#-possíveis-evoluções-futuras)
+- [Sobre o Projeto](#sobre-o-projeto)
+- [Cenário](#cenário)
+- [Objetivo](#objetivo)
+- [Abordagem Analítica](#abordagem-analítica)
+- [Canvas do Projeto](#canvas-do-projeto)
+- [Regras Temporais de Coerência](#regras-temporais-de-coerência)
+- [Análise Exploratória](#análise-exploratória)
+- [MVP - Dashboard Conceitual](#mvp---dashboard-conceitual)
+- [Relatório Executivo](#relatório-executivo)
+- [Limitações Identificadas](#limitações-identificadas)
+- [Possíveis Evoluções Futuras](#possíveis-evoluções-futuras)
 
 ## Sobre o Projeto
 
@@ -69,7 +69,11 @@ Essa abordagem foi escolhida por apresentar:
 O Canvas do projeto foi desenvolvido com o objetivo de consolidar de forma visual e estratégica os principais elementos relacionados à proposta do Mobilis.
 
 <p align="center">
-  <img src="docs/canva_projeto_mobilis.jpg" width="900">
+  <img src="img/canva_projeto_mobilis.jpg" width="900">
+</p>
+
+<p align="center">
+Estrutura visual utilizada para consolidação estratégica da proposta do projeto Mobilis, contemplando cenário urbano, abordagem analítica, limitações, objetivos e perspectivas de evolução da solução.
 </p>
 
 A estrutura contempla aspectos como:
@@ -132,11 +136,11 @@ Também foi utilizada uma estratégia de **amostragem de dados**, devido às lim
 # MVP — Dashboard Conceitual
 
 <p align="center">
-  <img src="docs/GIF_projeto_ia_gemeo_digital.gif" width="900">
+  <img src="img/GIF_projeto_ia_gemeo_digital.gif" width="900">
 </p>
 
 <p align="center">
-Preview visual do dashboard conceitual do projeto.
+Visualização conceitual do dashboard analítico desenvolvido para o projeto Mobilis, apresentando inferência de fluxos urbanos, matriz Origem-Destino (O-D), indicadores exploratórios e proposta visual para apoio à mobilidade urbana inteligente.
 </p>
 
 Como proposta inicial de solução, foi desenvolvido um MVP conceitual contendo:
@@ -150,11 +154,7 @@ Como proposta inicial de solução, foi desenvolvido um MVP conceitual contendo:
 O objetivo do MVP é facilitar futuras análises e apoiar tomadas de decisão relacionadas à mobilidade urbana.
 
 <p align="center">
-  <img src="docs/relatorio_insigths_projetoIA_gemeo_digital_v1.jpg" width="900">
-</p>
-
-<p align="center">
-Preview visual do relatório de insigths de impressão do sistema.
+  <img src="img/relatorio_insigths_projetoIA_gemeo_digital_v1.jpg" width="900">
 </p>
 
 ---
@@ -164,11 +164,11 @@ Preview visual do relatório de insigths de impressão do sistema.
 O relatório técnico apresenta de forma detalhada o desenvolvimento do projeto Mobilis, documentando desde o processo de exploração dos dados até a definição da estratégia analítica utilizada para inferência dos fluxos urbanos.
 
 <p align="center">
-  <img src="docs/GIF__relatorio_projeto_ia_gemeo_digital.gif" width="900">
+  <img src="img/GIF__relatorio_projeto_ia_gemeo_digital.gif" width="900">
 </p>
 
 <p align="center">
-Pré-visualização dinâmica do relatório executivo do projeto, consolidando abordagem analítica, regras de coerência, limitações identificadas, inferência espaço-temporal dos fluxos e proposta conceitual da solução desenvolvida.
+Visualização dinâmica do relatório técnico do projeto, apresentando os principais elementos analíticos, estruturais e conceituais desenvolvidos ao longo da proposta de inferência para mobilidade urbana inteligente.
 </p>
 
 O documento contempla:
@@ -219,7 +219,7 @@ Projeto desenvolvido no contexto do programa Gêmeo Digital em colaboração com
 </p>
 
 <p align="center">
-  <img src="docs/logo_empresas_programa_gd.png" width="700">
+  <img src="img/logo_empresas_programa_gd.jpg" width="700">
 </p>
 
 
