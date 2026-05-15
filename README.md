@@ -136,7 +136,7 @@ Também foi utilizada uma estratégia de **amostragem de dados**, devido às lim
 # MVP — Dashboard Conceitual
 
 <p align="center">
-  <img src="img/GIF_projeto_ia_gemeo_digital.gif" width="900">
+  <img src="img/GI2F_projeto_ia_gemeo_digital.gif" width="900">
 </p>
 
 <p align="center">
@@ -164,7 +164,7 @@ O objetivo do MVP é facilitar futuras análises e apoiar tomadas de decisão re
 O relatório técnico apresenta de forma detalhada o desenvolvimento do projeto Mobilis, documentando desde o processo de exploração dos dados até a definição da estratégia analítica utilizada para inferência dos fluxos urbanos.
 
 <p align="center">
-  <img src="img/GIF__relatorio_projeto_ia_gemeo_digital.gif" width="900">
+  <img src="img/GIF1__relatorio_projeto_ia_gemeo_digital.gif" width="900">
 </p>
 
 <p align="center">
