@@ -136,7 +136,7 @@ Também foi utilizada uma estratégia de **amostragem de dados**, devido às lim
 # MVP — Dashboard Conceitual
 
 <p align="center">
-  <img src="img/GI2F_projeto_ia_gemeo_digital.gif" width="900">
+  <img src="img/GIF2_projeto_ia_gemeo_digital.gif" width="900">
 </p>
 
 <p align="center">
